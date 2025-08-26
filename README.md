@@ -1,4 +1,4 @@
-#  Programming Assignments𓂃˖˳·˖ ִֶָ ⋆🌷͙⋆ ִֶָ˖·˳˖𓂃 ִֶָ 
+#  Programming Assignments𓂃˖˳·˖ ִֶָ ⋆☄️⋆ ִֶָ˖·˳˖𓂃 ִֶָ 
 This repository contains my programming assignments for **ECE 2112: Advanced Computer Programming and Algorithms**.
 
 ## ✧˖°. Contents
