@@ -15,8 +15,3 @@ This repository contains my programming assignments for **ECE 2112: Advanced Com
 ## ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
 
-
-
-
-![Uploading image.png…]()
-
