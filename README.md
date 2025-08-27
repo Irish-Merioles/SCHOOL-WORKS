@@ -12,9 +12,9 @@ This repository contains my programming assignments for **ECE 2112: Advanced Com
    def alphabet_soup(word):
     return ''.join(sorted(word))
   OUTPUT:
-   print(alphabet_soup("hello"))      # Output: ehllo
-   print(alphabet_soup("hacker"))     # Output: acehkr
-   print(alphabet_soup("programming"))# Output: aggimmnoprr
+   print(alphabet_soup("hello"))       # Output: ehllo
+   print(alphabet_soup("hacker"))      # Output: acehkr
+   print(alphabet_soup("programming")) # Output: aggimmnoprr
 
   Emoticon Problem – replacing specific words in a sentence with their corresponding emoticons.
   - i created a function that replaces the words smile, grin, sad, and mad with corresponding emoticons in a given sentence.
