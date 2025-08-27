@@ -15,7 +15,7 @@ def alphabet_soup(text):
     return ''.join(sorted(text))  
  ```
  
-Output
+*Output*
 ```python
 print(alphabet_soup("hello"))      # ehllo
  ```
@@ -36,7 +36,7 @@ def emotify(sentence):
     result = [emoticons.get(word, word) for word in words]
     return " ".join(result)
  ```
-Output
+*Output*
 ```python
 print(emotify("Make me smile"))     # Make me :)
 print(emotify("I am mad"))          # I am >:(
@@ -58,7 +58,7 @@ print("first:", first)   # first: 1
 print("middle:", middle) # middle: [2, 3, 4, 5]
 print("last:", last)     # last: 6
  ```
-Output
+*Output*
 ```python
 print("first:" , first)  # first: 1
 print("middle:", middle) # middle: [2, 3, 4, 5]
