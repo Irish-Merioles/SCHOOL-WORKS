@@ -36,6 +36,13 @@ def emotify(sentence):
     result = [emoticons.get(word, word) for word in words]
     return " ".join(result)
  ```
+Output
+```python
+print(emotify("Make me smile"))     # Make me :)
+print(emotify("I am mad"))          # I am >:(
+print(emotify("I am happy grin"))   # I am happy :D
+print(emotify("She is sad"))        # She is :(
+ ```
 #### Unpacking List
 
 1. Given a list, extract the first, everything in the middle, and the last element.
@@ -50,6 +57,12 @@ middle = lst[1:-1]
 print("first:", first)   # first: 1
 print("middle:", middle) # middle: [2, 3, 4, 5]
 print("last:", last)     # last: 6
+ ```
+Output
+```python
+print("first:" , first)  # first: 1
+print("middle:", middle) # middle: [2, 3, 4, 5]
+print("last:" , last)    # last: 6
  ```
 ### *How to run (locally / in Jupyter)*
 
